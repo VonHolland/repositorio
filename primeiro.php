@@ -1,3 +1,5 @@
 <?php
 
-echo "Olá mundo!";
+echo "Lá na terra tem palmeiras";
+
+echo "Onde canta o sabiá";
